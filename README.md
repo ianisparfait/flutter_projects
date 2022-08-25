@@ -1,4 +1,4 @@
-# flutter_projects
+# Flutter_projects
 
 This repository serves as a catch-all for flutter bases.  
   
